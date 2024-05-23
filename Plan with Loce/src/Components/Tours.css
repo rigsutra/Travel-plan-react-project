@@ -1,0 +1,4 @@
+.Cards-container{
+    display: flex;
+    flex-direction: column;
+}
